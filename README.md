@@ -109,7 +109,7 @@ Task Management Application is a web-based tool that enables users to manage the
 
 ## 🤝 Contributors
 
-- **Mehedi Hasan Rihat** - [GitHub](https://github.com/Moshiur-15)
+- **MOSHIUR ISLAM** - [GitHub](https://github.com/Moshiur-15)
 
 ---
 
