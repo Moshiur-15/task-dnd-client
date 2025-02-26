@@ -6,8 +6,8 @@ Task Management Application is a web-based tool that enables users to manage the
 
 ## 🚀 Live Demo
 
-- **Frontend:** [Live Frontend](https://storied-sunshine-e20d2a.netlify.app/)
-- **Backend:** [Live Backend](https://server-theta-sable.vercel.app/)
+- **Frontend:** [Live Frontend](https://task-dnd.netlify.app/login)
+- **Backend:** [Live Backend](https://task-dnd-server.vercel.app/)
 
 ## 📌 Features
 
@@ -62,11 +62,11 @@ Task Management Application is a web-based tool that enables users to manage the
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mehedi-hasan-rihat/TaskDnD.git
+   client : git clone https://github.com/Moshiur-15/task-dnd-client.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd TaskDnD
+   client :cd TASK-DND
    ```
 3. Install dependencies:
    ```sh
@@ -75,17 +75,18 @@ Task Management Application is a web-based tool that enables users to manage the
 4. Start the development server:
    ```sh
    npm run dev
+   npm i
    ```
 
 ### 🖥️ Backend Setup
 
 1. Clone the backend repository:
    ```sh
-   git clone https://github.com/mehedi-hasan-rihat/dndServer.git
+   git clone https://github.com/Moshiur-15/dnd-server.git
    ```
 2. Navigate to the backend directory:
    ```sh
-   cd dndServer
+   cd TASK-DND-SERVER
    ```
 3. Install dependencies:
    ```sh
@@ -103,12 +104,12 @@ Task Management Application is a web-based tool that enables users to manage the
 
 ## 📖 Documentation & Source Code
 
-- **Frontend Repository:** [GitHub Link](https://github.com/mehedi-hasan-rihat/TaskDnD)
-- **Backend Repository:** [GitHub Link](https://github.com/mehedi-hasan-rihat/dndServer)
+- **Frontend Repository:** [GitHub Link](https://github.com/Moshiur-15/task-dnd-client)
+- **Backend Repository:** [GitHub Link](https://github.com/Moshiur-15/dnd-server)
 
 ## 🤝 Contributors
 
-- **Mehedi Hasan Rihat** - [GitHub](https://github.com/mehedi-hasan-rihat)
+- **Mehedi Hasan Rihat** - [GitHub](https://github.com/Moshiur-15)
 
 ---
 
